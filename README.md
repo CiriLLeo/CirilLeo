@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Cirillo</h1>
 <h3 align="center">A business administration graduate who wants to change his life</h3>
-<img align="right" alt="StartCoding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="center" alt="StartCoding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cirilleo&label=Profile%20views&color=0e75b6&style=flat" alt="cirilleo" /> </p>
