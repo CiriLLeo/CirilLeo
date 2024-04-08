@@ -1,6 +1,6 @@
 ![Alt text](/github-header-image.png "Banner Leonardo")
 <h1 align="center">Hi 👋, I'm Leonardo Cirillo</h1>
-<h3 align="center">A business administration graduate who wants to change his life</h3>
+<h3 align="center">A business economics who wants to change his life</h3>
 <img align="right" alt="StartCoding" width="520" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 
