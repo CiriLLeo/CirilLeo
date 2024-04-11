@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/leonard76184949" target="blank"><img src="https://img.shields.io/twitter/follow/leonard76184949?logo=twitter&style=for-the-badge" alt="leonard76184949" /></a> </p>
 
-- 🔭 I’m currently working on **App per democratizzare la diffusione di informazioni in ambito tech**
+- 🔭 I’m currently working on **React project**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
