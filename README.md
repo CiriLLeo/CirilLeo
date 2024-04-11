@@ -23,9 +23,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,webpack)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=webpack,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cirilleo&show_icons=true&locale=en&layout=compact" alt="cirilleo" /></p>
 
