@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/leonard76184949" target="blank"><img src="https://img.shields.io/twitter/follow/leonard76184949?logo=twitter&style=for-the-badge" alt="leonard76184949" /></a> </p>
 
-- 🔭 I’m currently working on **React project**
+- 🔭 I’m currently working on **Angular project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,webpack,ts)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
 
